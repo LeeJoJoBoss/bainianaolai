@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LeeZW",
+    "children" : [ {
+      "name" : "8260-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test01",
+        "uid" : "dc2c05d495cd97b7",
+        "parentUid" : "8c75c1b3c575b4b7d764c6a8ae6b99e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552915937409,
+          "stop" : 1552916031053,
+          "duration" : 93644
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8c75c1b3c575b4b7d764c6a8ae6b99e3"
+    } ],
+    "uid" : "51197e58f804117176f6658107eb8631"
+  } ]
+}
